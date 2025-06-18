@@ -1,5 +1,5 @@
 # SocialMedia
-Some animated posts that should be easy to update for people without coding experience.
+The code supports animated gif slider social media posts that should be relatively easy to update for people without coding experience.
 
 You can take this python code to create a LinkedIn image that slides between two images and gives followers the chance to say which they prefer. 
 
